@@ -15,7 +15,7 @@ tornaram-se estatisticamente significativos durante a crise, explicando o excess
 
 ## 📂 Arquivos no Repositório
 
-* **[MONOGRAFIA_ECONOMIA_USP.pdf]* **[MONOGRAFIA_ECONOMIA_USP.pdf](MONOGRAFIA_ECONOMIA_USP.pdf):** O documento PDF completo da monografia.):** O documento PDF completo da monografia.
+* **[MONOGRAFIA_ECONOMIA_USP.pdf]* **[MONOGRAFIA_ECONOMIA_USP.pdf](MONOGRAFIA_ECONOMIA_USP.pdf):** O documento PDF completo da monografia.)
 * **[Código-Fonte (Repositório Separado)](https://github.com/codigo50/fama-french-covid-brazil):** O código completo (em R), os dados e a análise que geraram os resultados deste estudo estão disponíveis em um repositório dedicado.
 
 ## 👤 Autor
